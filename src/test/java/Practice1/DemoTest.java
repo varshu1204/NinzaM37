@@ -8,6 +8,7 @@ public class DemoTest {
 public void AppleTest()
 {
 	System.out.println("Apple");
+	System.out.println("Grapes");
 }
 	
 	
