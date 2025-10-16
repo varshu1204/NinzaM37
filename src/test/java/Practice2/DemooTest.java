@@ -9,5 +9,6 @@ public class DemooTest {
 	public void OrangeTest()
 	{
 		System.out.println("Orange");
+		System.out.println("sdf");
 	}
 }
