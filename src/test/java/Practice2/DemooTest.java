@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class DemooTest {
 
 	
-	@Test
+	@Test(groups = "regression")
 	public void OrangeTest()
 	{
 		System.out.println("Orange");
