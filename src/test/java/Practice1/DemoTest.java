@@ -7,7 +7,8 @@ public class DemoTest {
 @Test(groups = "smoke")
 public void AppleTest()
 {
-	System.out.println("Apple1");
+	System.out.println("Apple12");
+	System.out.println("apple");
 }
 	
 	
